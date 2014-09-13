@@ -1,0 +1,20 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <name> Rattanak Chea <role> Developer
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, jQuery Mobile
+    Javascript
+
+- usage Simple HTML template (as opposed to Backbone or Angular) p.23
+        to add task to task list
+- HTML localStorage 
